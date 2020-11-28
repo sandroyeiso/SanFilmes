@@ -1,0 +1,67 @@
+body{
+    background-color: 
+    rgb(31, 29, 29);
+    color:inherit;
+}
+    
+.logo {
+    height: 40x;
+    width: 40px;
+}
+
+h2{
+    color:  rgb(208, 208, 211);
+}
+h6{
+    color: black;
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: black!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(208, 208, 211);
+    
+}
+.cor{
+    background: rgb(208, 208, 211);
+}
+
+.navbar-light .navbar-brand{
+color:rgb(31, 29, 29);
+text-align: center;
+font-family: monospace;
+font-size: 0.5cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(31, 29, 29);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:rgb(31, 29, 29);
+    border-color:  #FFF0F5;
+
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(31, 29, 29);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color:rgb(208, 208, 211);
+}
+.footer a{
+    color: rgb(31, 29, 29);
+    text-decoration: none;
+    font-size: 1.25em;
+    
+}
